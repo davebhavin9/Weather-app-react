@@ -15,7 +15,7 @@ const optionsCursorTrueWithMargin = {
 // import api from openweathermap website, api key and api url.
 const api = {
   key: "de3d009eb3c97b79a28dfaec046b96eb",
-  base: "http://api.openweathermap.org/data/2.5/"
+  base: "https://api.openweathermap.org/data/2.5/"
 }
 
 //get the infomation dynatmically and employ it.
